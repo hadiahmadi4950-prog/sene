@@ -1,0 +1,33 @@
+{
+ "name": "sene — آرشیو خصوصی زندگی",
+ "short_name": "sene",
+ "description": "آرشیو خصوصی، رمزگذاری‌شده و آفلاین برای خاطره‌ها و تجربه‌های زندگی",
+ "lang": "fa",
+ "dir": "rtl",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#121033",
+ "theme_color": "#2b2a6b",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
